@@ -2,6 +2,8 @@
 
 Projeto de uma calculadora construída com Flutter como projeto para a disciplina de Programação Para Aplicativos Móveis do curso de Sistemas de Informação da Unicatólica de Quixadá - semestre: 1/2024. Esta calculadora é capaz de realizar operações básicas como soma, subtração, multiplicação e divisão.
 
+![Calculadora Flutter](assets/img/mockup.png)
+
 Dupla: [Roberlan Carvalho](https://github.com/roberlancarvalho/) e [Hayssa Martins](https://github.com/hayssamartinsdev)
 
 ## Iniciando
